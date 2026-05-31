@@ -46,7 +46,7 @@ CS student at South Asian University, Delhi. I care about making things that fee
 - National Scholar in Kathak classical dance, Ministry of Culture of India
 
 ## reach me
-[LinkedIn](https://linkedin.com/in/ambika-rawat) · theambiverse26@gmail.com
+[LinkedIn] (www.linkedin.com/in/ambikarawat26) · theambiverse26@gmail.com
 
 ---
 *committing every day. building in public.*  ) · theambiverse26@gmail.com
