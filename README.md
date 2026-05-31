@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ambika-rawat/ambika-rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, I'm Ambika 👋
 
-Here are some ideas to get you started:
+CS student at South Asian University, Delhi. I care about making things that feel as good as they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## things I've built
+
+| project | what it does | stack |
+| [WanderWorld](https://github.com/ambika-rawat/WanderWorld) | travel planner — itinerary builder, budget calculator, restaurant finder (vegan options), phrase translator | JavaScript, HTML, CSS |
+| [TrendPulse](https://github.com/ambika-rawat/trendpulse-ambikarawat) | data pipeline pulling live trends from GitHub, Hacker News & Open-Meteo, visualised with matplotlib | Python |
+| [Recipe Website](https://github.com/ambika-rawat/recipe-website) | responsive recipe cookbook | HTML, CSS |
+| [Portfolio](https://github.com/ambika-rawat/portfolio-website) | personal site | HTML, CSS |
+
+## currently
+- 🔨 building DevNotes — a study notes platform for CS students
+- 📖 learning full-stack web development properly
+- 🌱 contributing to open source
+
+## also me
+- founded **Agrini**, a dance crew — I do all the branding and visual identity
+- debate competitor
+- National Scholar in Kathak classical dance, Ministry of Culture of India
+
+## reach me
+[LinkedIn](https://linkedin.com/in/ambika-rawat) · theambiverse26@gmail.com
+
+---
+*committing every day. building in public.*
