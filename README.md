@@ -1,4 +1,3 @@
-
 # hi, I'm Ambika 👋
 
 CS student at South Asian University, Delhi. I care about making things that feel as good as they work.
@@ -7,7 +6,7 @@ CS student at South Asian University, Delhi. I care about making things that fee
 
 | project | what it does | stack |
 |---|---|---|
-| [WanderWorld](https://github.com/ambika-rawat/WanderWorld) | travel planner — itinerary builder, budget calculator, restaurant finder (vegan options), phrase translator | JavaScript, HTML, CSS |
+| [Sanjay](https://github.com/ambika-rawat/Sanjay) | on-device intelligent dead reckoning + GNSS fusion navigation app — keeps tracking your position through tunnels, parking garages & urban canyons using just your phone's sensors | TypeScript, React Native, Expo |
 | [TrendPulse](https://github.com/ambika-rawat/trendpulse-ambikarawat) | data pipeline pulling live trends from GitHub, Hacker News & Open-Meteo, visualised with matplotlib | Python |
 | [Recipe Website](https://github.com/ambika-rawat/recipe-website) | responsive recipe cookbook | HTML, CSS |
 | [Portfolio](https://github.com/ambika-rawat/portfolio-website) | personal site | HTML, CSS |
@@ -24,8 +23,5 @@ CS student at South Asian University, Delhi. I care about making things that fee
 
 ## reach me
 [LinkedIn](https://linkedin.com/in/ambikarawat26) · theambiverse26@gmail.com
-
----
-(*committing every day. building in public.*  ) 
 
 
