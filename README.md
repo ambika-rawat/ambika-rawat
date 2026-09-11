@@ -6,7 +6,6 @@ CS student at South Asian University, Delhi. I care about making things that fee
 
 | project | what it does | stack |
 |---|---|---|
-| [Sanjay](https://github.com/ambika-rawat/Sanjay) | on-device intelligent dead reckoning + GNSS fusion navigation app — keeps tracking your position through tunnels, parking garages & urban canyons using just your phone's sensors | TypeScript, React Native, Expo |
 | [TrendPulse](https://github.com/ambika-rawat/trendpulse-ambikarawat) | data pipeline pulling live trends from GitHub, Hacker News & Open-Meteo, visualised with matplotlib | Python |
 | [Recipe Website](https://github.com/ambika-rawat/recipe-website) | responsive recipe cookbook | HTML, CSS |
 | [Portfolio](https://github.com/ambika-rawat/portfolio-website) | personal site | HTML, CSS |
